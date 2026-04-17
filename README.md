@@ -80,8 +80,4 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/sohel-dev-bd/sohel-dev-bd/blob/output/github-contribution-grid-snake.svg" />
-</p>
