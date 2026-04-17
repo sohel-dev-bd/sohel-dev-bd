@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Sohel+Rana;Frontend+Developer;React+Lover" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:a855f7&height=200&section=header&text=Sohel%20Rana&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohel-dev-bd&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohel-dev-bd&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=32&center=true&vCenter=true&width=800&lines=Frontend+Developer+🚀;React+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Apps" />
 </p>
 
 
