@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Sohel+Rana;Frontend+Developer;React+Lover" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohel-dev-bd&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sohel-dev-bd&theme=tokyonight" />
+</p>
 
 
 ## Hi there 👋
