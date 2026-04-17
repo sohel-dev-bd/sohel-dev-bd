@@ -11,6 +11,8 @@
 - 🔥 I love building modern websites
 
 ---
+![Banner](https://github.com/SumiMakito/AwesomeQRCode)
+
 
 ## 🛠 Skills & Tools
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,git,github)
