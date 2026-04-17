@@ -22,5 +22,4 @@
 ---
 
 ## 🌐 Social Links
-[![Facebook](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,git,icons/LinkedIn.svg))](https://facebook.com/)
-[![LinkedIn](www.linkedin.com/in/sohel-rana-dev-bd)
+
