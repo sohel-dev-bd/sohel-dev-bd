@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm SOHEL RANA 👋</h1>
 
 <h3 align="center">🚀 Junior Web Developer</h3>
-![Banner](https://rrrrrrr.jpg)
+
 ---
 
 ## 🚀 About Me
