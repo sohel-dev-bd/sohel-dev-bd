@@ -1,38 +1,85 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:a855f7&height=200&section=header&text=Sohel%20Rana&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4f46e5&height=200&section=header&text=Sohel%20Rana&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=32&center=true&vCenter=true&width=800&lines=Frontend+Developer+🚀;React+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Sohel+Rana+👋;Junior+Frontend+Developer;React+%7C+Tailwind+%7C+JavaScript;Building+Modern+Web+Apps+🚀" />
 </p>
 
-
-## Hi there 👋
-<h1 align="center">Hi there, I'm SOHEL RANA 👋</h1>
-
-<h3 align="center">🚀 Junior Web Developer</h3>
-
 ---
 
-## 🚀 About Me
-- 💻 I am a Junior Web Developer
-- 🌱 I’m currently learning React & Next.js
-- 🔥 I love building modern websites
+## 👨‍💻 About Me
+
+- 🌱 I’m currently learning **React & Next.js**
+- 💻 Junior Frontend Developer
+- 🚀 I love building modern responsive web apps
+- 🎯 Goal: Become a Full Stack Developer
 
 ---
-![Banner](https://github.com/SumiMakito/AwesomeQRCode)
-
 
 ## 🛠 Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,git,github)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,firebase" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📌 Todo App
+- React based todo application
+- Add / delete / complete tasks
+- Fully responsive
+
+### 📌 Weather App
+- Real-time weather data using API
+- Search any city weather
+
+### 📌 E-commerce UI
+- Modern UI design
+- Product listing + cart system
 
 ---
 
 ## 🌐 Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18NEoXxLU9/)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sohel-rana-dev-bd)
+<a href="https://facebook.com/your-id">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohel-dev-bd)
+<a href="https://linkedin.com/in/your-id">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="https://github.com/sohel-dev-bd">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohel-dev-bd&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohel-dev-bd&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/sohel-dev-bd/sohel-dev-bd/blob/output/github-contribution-grid-snake.svg" />
+</p>
