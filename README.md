@@ -50,7 +50,9 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/your-id">
+<a href="www.linkedin.com/in/sohel-rana-dev-bd
+
+">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
